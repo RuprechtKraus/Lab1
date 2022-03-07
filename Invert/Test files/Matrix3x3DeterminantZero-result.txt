@@ -1,0 +1,2 @@
+Determinant is 0
+Inversive matrix cannot be found
